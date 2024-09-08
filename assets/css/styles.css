@@ -761,7 +761,7 @@ a {
 }
 
 .footer__list {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .footer-item {
@@ -830,7 +830,7 @@ a {
 
 .footer__copyright-text {
     position: relative;
-    margin-top: 57px;
+    margin-top: 28px;
     color: #AAB3BA;
     text-align: center;
     font-size: 1.4rem;
